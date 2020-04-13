@@ -1,7 +1,7 @@
 {
-  "name": "elasticquent/elasticquent",
+  "name": "waska14/elasticquent",
   "type": "library",
-  "description": "Maps Laravel Eloquent models to Elasticsearch types.",
+  "description": "Maps Laravel Eloquent models to Elasticsearch types. (forked from elasticquent/elasticquent)",
   "keywords": [
     "elasticsearch",
     "eloquent",
